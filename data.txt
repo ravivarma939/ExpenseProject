@@ -1,0 +1,29 @@
+kk project name expensce tracking 
+button in the project they are 
+1.add button --- class insert values 
+2.view button---  
+3.modify button-- 450 rs
+4.delete button--- na frnd ki 1000 
+5.codition button --- 500>amount where cluse
+ 2 class 
+exit button
+//with out bugs smiple deadline 8th oct 7 th oct  -- 5days //monthend - 3 projects 
+ 
+ 
+ 250 food 02-10-2024
+ 
+ internally class are 
+ 
+ 1.expense class        2.expensestroge class 
+  private variables        jdbc connections create btw database and javaproject 
+  amount 
+  reason for spent 
+  date
+  stters and getters 
+   
+250 food 02-10-2024
+
+
+spent-money   reason   date 
+250           food     02-10-2024//
+350          phone     01-10-2024
